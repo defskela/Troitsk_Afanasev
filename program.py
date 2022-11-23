@@ -1,3 +1,6 @@
+import PyQt5
+
+
 def main():
     print('My first git program')
 
